@@ -6,14 +6,15 @@ Este repositorio contiene:
 <hr>
 <h4>1. Carpeta con archivos pertenecientes al desarrollo del poswork:</h4>
 <ul>
-    <li> Archivo word con la investigación y primeros pasos del proyecto en donde se incluyen los posworks 1, 2 y 3</li>
+    <li> Archivo word <b>Postwork1</b> con la investigación y primeros pasos del proyecto en donde se incluyen los posworks 1, 2 y 3</li>
     <li> Archivos jupiter labs con el desarrollo de los posworks 4, 5 y 6</li>
+    <ul>
+        <li value="4"> 4 - Analisis_poswork</li>
+        <li value="5"> 5 - LimpiezaDatos</li>
+        <li value="6"> 6 - ConcatenacionDataFrames</li>
+    </ul>
 </ul>
-<ol>
-  <li value="4"> Analisis_poswork</li>
-  <li value="5"> LimpiezaDatos</li>
-  <li value="6"> ConcatenacionDataFrames</li>
-</ol>
+
 <hr>
 <p>
   Debido a que los datos no me los deja cargar aquí por el tamaño. Los he subido a drive y adjunto el link para su descarga y consulta:
