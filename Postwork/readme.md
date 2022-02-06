@@ -13,7 +13,7 @@ Este repositorio contiene:
         <li value="5"> 5 - 2_LimpiezaDatos</li>
         <li value="6"> 6 - 3_ConcatenacionDataFrames</li>
         <li value="6"> 7 - 4_TFO_datos</li>
-        <li value="6"> 7 - 5_Preguntas</li>
+        <li value="6"> 8 - 5_Preguntas</li>
     </ul>
     <li> Archivo Power Point de la presentación y conclusiones: "Demo_Day_JeimyRamirez.pptx"</li>
     <li> Archivo Zip "ExportDatos"con la salida del notebook 4 en cvs</li>
