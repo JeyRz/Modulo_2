@@ -6,7 +6,7 @@ Este repositorio contiene:
 <hr>
 <h4>1. Carpeta con archivos pertenecientes al desarrollo del poswork:</h4>
 <ul>
-    <li> Archivo word <b>Postwork1</b> con la investigación y primeros pasos del proyecto en donde se incluyen los posworks 1, 2 y 3</li>
+    <li> Archivo word <b>Investigación_poswork_v1</b> con la investigación y primeros pasos del proyecto en donde se incluyen los posworks 1, 2 y 3</li>
     <li> Archivos jupiter labs con el desarrollo de los posworks 4, 5 y 6</li>
     <ul>
         <li value="4"> 4 - 1_Analisis_poswork</li>
