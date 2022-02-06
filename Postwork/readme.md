@@ -9,10 +9,14 @@ Este repositorio contiene:
     <li> Archivo word <b>Postwork1</b> con la investigación y primeros pasos del proyecto en donde se incluyen los posworks 1, 2 y 3</li>
     <li> Archivos jupiter labs con el desarrollo de los posworks 4, 5 y 6</li>
     <ul>
-        <li value="4"> 4 - Analisis_poswork</li>
-        <li value="5"> 5 - LimpiezaDatos</li>
-        <li value="6"> 6 - ConcatenacionDataFrames</li>
+        <li value="4"> 4 - 1_Analisis_poswork</li>
+        <li value="5"> 5 - 2_LimpiezaDatos</li>
+        <li value="6"> 6 - 3_ConcatenacionDataFrames</li>
+        <li value="6"> 7 - 4_TFO_datos</li>
+        <li value="6"> 7 - 5_Preguntas</li>
     </ul>
+    <li> Archivo Power Point de la presentación y conclusiones: "Demo_Day_JeimyRamirez.pptx"</li>
+    <li> Archivo Zip "ExportDatos"con la salida del notebook 4 en cvs</li>
 </ul>
 
 <hr>
